@@ -1,0 +1,20 @@
+<template> 
+  <div>
+    <h1>My Skills</h1>
+    <h2>Backend</h2>
+    <ul>
+      <li>NodeJS</li>
+      <li>AWS</li>
+    </ul>
+    <br>
+    <h2>Frontend</h2>
+    <ul>
+      <li>VueJS</li>
+    </ul>
+    <h2>Mobile</h2>
+    <ul>
+      <li>iOS</li>
+      <li>Swift</li>
+    </ul>
+  </div>
+</template>
